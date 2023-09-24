@@ -1,0 +1,1 @@
+java -jar C:\workspace_kimpo\mk.nara\target\mk.nara-0.0.1-SNAPSHOT.war
